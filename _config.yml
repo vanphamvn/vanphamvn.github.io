@@ -91,9 +91,9 @@ linkedin-share: True
 reddit-share: True
 google-plus-share: True
 tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+#pinterest-share: True
+#pocket-share: True
+#vkontakte-share: True
 
 #disqus-shortname: "panossakkos"
 
