@@ -33,14 +33,14 @@ author: "Van Pham"
 title: "Van D. Pham"
 description: "Blog and website of Van Pham."
 keywords: "van,pham"
-favicon: "/img/home_icon.ico"
+favicon: "/img/tip.ico"
 404-img: "/img/404-ghost.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/home_icon.ico"
+black-favicon: "/img/tip.ico"
 
 #background-img: "../img/intro-bg.jpg"
 
