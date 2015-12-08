@@ -33,7 +33,7 @@ author: "Van Pham"
 title: "Van D. Pham"
 description: "Blog and website of Van Pham."
 keywords: "van,pham"
-favicon: "/img/favicon.ico"
+favicon: "/img/home_icon.ico"
 404-img: "/img/404-ghost.png"
 
 ################
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   #- text: "Where’s your will to be weird?"
 
-me-img: "/img/profile.png"
+#me-img: "/img/profile.png"
 
 ################
 # Web app mode #
