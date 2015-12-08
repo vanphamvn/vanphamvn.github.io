@@ -177,7 +177,7 @@ a {
         padding: 0;
         .intro-body {
             .brand-heading {
-                font-size: 100px;
+                font-size: 40px;
             }
             .intro-text {
                 font-size: 26px;
@@ -221,10 +221,10 @@ a {
 }
 
 .content-section {
-    margin-top: 100px;
-    padding-top: 100px;
+    margin-top: 0px;
+    padding-top: 50px;
     @media(min-width:767px) {
-        margin-top: 125px;
+        margin-top: 0px;
         padding-top: 125px;
     }
     /* Added in { Personal } for responsive images in posts and section contents */
